@@ -15,7 +15,7 @@
            "Tantifilm":{
                "domain": "bond",
                "TF_ForwardProxy": "0",
-               "TF_PROXY": "0",
+               "TF_PROXY": "1",
                "enabled": "1"
            },
            "Mysterius":{
@@ -40,10 +40,10 @@
           "DDLStream":{
               "domain":"co",
               "cookies" : {
-                  "ips4_device_key": null,
-                  "ips4_IPSSessionFront": null,
-                  "ips4_member_id": null,
-                  "ips4_login_key": null
+                  "ips4_device_key": "dccf246fe4f88451b65a5ef5d8f322cb",
+                  "ips4_IPSSessionFront": "abe3ef69848e59d958936b1a9126be25",
+                  "ips4_member_id": "4030048",
+                  "ips4_login_key": "108d33ef2554d697a12bbbf10ff798a3"
                   },
               "enabled":"1"
           },
@@ -51,13 +51,13 @@
               "domain":"academy",
               "enabled":"1",
               "GS_ForwardProxy":"0",
-              "GS_PROXY":"0"
+              "GS_PROXY":"1"
           },
           "GuardaHD":{
               "domain":"stream",
               "enabled":"1",
               "GH_ForwardProxy":"0",
-              "GH_PROXY":"0"
+              "GH_PROXY":"1"
           },
           "AnimeWorld":{
               "domain":"so",
